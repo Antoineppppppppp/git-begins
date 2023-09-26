@@ -1,0 +1,4 @@
+git add <fichier>
+git commit -m "commentaire"
+git push
+
